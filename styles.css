@@ -33,7 +33,7 @@ section {
 }
 
 img {
-  border-radius: 8px;
+  border-radius: 20px;
   max-width: 100%;
   margin-top: 0.5rem;
 }
@@ -98,9 +98,9 @@ footer a img:hover {
 
 
 body {
-  background: linear-gradient(-45deg, #fde1e3, #cbe8ff, #e2fce8, #f9f9fa);
+  background: linear-gradient(-45deg, #b4e2fa, #aafaf0, #e6e1fa, #ffd6c2);
   background-size: 400% 400%;
-  animation: gradientMove 18s ease infinite;
+  animation: gradientMove 15s ease infinite;
 }
 
 @keyframes gradientMove {
@@ -108,4 +108,5 @@ body {
   50% {background-position: 100% 50%;}
   100% {background-position: 0% 50%;}
 }
+
 
