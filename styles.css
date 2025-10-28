@@ -19,6 +19,8 @@ a {
 }
 a:hover {
   text-decoration: underline;
+  /* Grow icon by 10% on hover */
+  transform: scale(1.2);
 }
 
 section {
@@ -49,15 +51,17 @@ footer {
 }
 
 footer a img {
-  filter: grayscale(70%);
-  transition: filter 0.3s;
+  /* Remove grayscale for original color */
   margin: 0 10px;
   vertical-align: middle;
+  transition: transform 0.3s;
 }
 
 footer a img:hover {
-  filter: none;
+  /* Grow icon by 10% on hover */
+  transform: scale(1.2);
 }
+
 
 .experience-title {
   font-weight: 600;
