@@ -10,7 +10,9 @@ website:
       - text: About
         file: about.qmd
       - text: Experiences
-        file: experience.qmd  
+        file: experiences.qmd
+      - text: Skills
+        file: skills.qmd    
   
 
 
