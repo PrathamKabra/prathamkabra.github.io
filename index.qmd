@@ -4,6 +4,8 @@ title: "Welcome to My Portfolio"
 
 # Hi, I'm Pratham
 
+![Pratham's profile photograph](images/pk.png)
+
 This is my analytics and business portfolio website.
 
 - **Education:** Boston University, Applied Business Analytics
