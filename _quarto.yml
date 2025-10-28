@@ -11,7 +11,7 @@ website:
         file: projects.qmd
       - text: About
         file: about.qmd
-      - text: Experience
+      - text: Experiences
         file: experience.qmd  
   
 
