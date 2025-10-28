@@ -1,0 +1,10 @@
+project:
+  type: website
+
+website:
+  title: "Pratham Kabra Portfolio Website"
+  navbar:
+    left:
+      - text: Home
+        file: index.qmd
+      # Add more pages as you create them
