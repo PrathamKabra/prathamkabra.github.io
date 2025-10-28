@@ -2,7 +2,7 @@
 title: "Welcome to My Portfolio"
 ---
 
-# Hi, I'm [Your Name]
+# Hi, I'm Pratham
 
 This is my analytics and business portfolio website.
 
