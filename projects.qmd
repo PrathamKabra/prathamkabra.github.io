@@ -1,0 +1,13 @@
+---
+title: "My Projects"
+---
+
+# Projects
+
+## Dummy Clinic Platform
+Free, HIPAA-style clinic manager demo. [Describe features, link repo, add screenshot]
+
+## EHR Workflow Simulation  
+Explored data compliance, scheduling, and US healthcare standards.
+
+[Add more projects as you build them]
