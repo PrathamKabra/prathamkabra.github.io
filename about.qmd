@@ -1,7 +1,3 @@
----
-title: "About Me"
----
-
 # About Me
 
 Hi, I'm Pratham Kabra—Business Analytics student at Boston University.

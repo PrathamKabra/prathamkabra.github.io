@@ -21,6 +21,7 @@ a:hover {
   text-decoration: underline;
   /* Grow icon by 10% on hover */
   transform: scale(1.2);
+  transition: transform 0.5s;
 }
 
 section {
@@ -43,23 +44,25 @@ ul {
 
 footer {
   margin-top: 32px;
-  padding: 20px 0;
+  padding: 5px 0;
   background: #0073e6;
   color: #fff;
   text-align: center;
-  font-size: 1rem;
+  font-size: 0.1rem;
 }
 
+
 footer a img {
-  /* Remove grayscale for original color */
-  margin: 0 10px;
+  width: 60px; /* Increase icon size from 30px to 40px (or try 48px for even bigger) */
+  margin: 0 12px;
   vertical-align: middle;
   transition: transform 0.3s;
 }
 
+
 footer a img:hover {
   /* Grow icon by 10% on hover */
-  transform: scale(1.2);
+  transform: scale(1.4);
 }
 
 
@@ -92,3 +95,17 @@ footer a img:hover {
   margin-bottom: 0.5rem;
   font-weight: 500;
 }
+
+
+body {
+  background: linear-gradient(-45deg, #fde1e3, #cbe8ff, #e2fce8, #f9f9fa);
+  background-size: 400% 400%;
+  animation: gradientMove 18s ease infinite;
+}
+
+@keyframes gradientMove {
+  0% {background-position: 0% 50%;}
+  50% {background-position: 100% 50%;}
+  100% {background-position: 0% 50%;}
+}
+

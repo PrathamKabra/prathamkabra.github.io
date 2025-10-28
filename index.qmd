@@ -1,7 +1,3 @@
----
-title: "Welcome to My Portfolio"
----
-
 # Hi, I'm Pratham
 
 ![](images/pk.png)
@@ -13,3 +9,4 @@ This is my analytics and business portfolio website.
 - **Portfolio:** [Add projects here as links when ready]
 
 Stay tuned for new projects!
+
