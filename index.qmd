@@ -1,7 +1,13 @@
 ---
-title: "prathamkabra.github.io-1"
+title: "Welcome to My Portfolio"
 ---
 
-## Quarto
+# Hi, I'm [Your Name]
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+This is my analytics and business portfolio website.
+
+- **Education:** Boston University, Applied Business Analytics
+- **Skills:** Business Analytics, Data Visualization, Project Management
+- **Portfolio:** [Add projects here as links when ready]
+
+Stay tuned for new projects!
