@@ -1,0 +1,11 @@
+---
+title: "About Me"
+---
+
+# About Me
+
+Hi, I'm Pratham Kabra—Business Analytics student at Boston University.
+
+- Passionate about analytics and data-driven business strategy
+- Experience with clinic platform prototypes, dashboarding, and compliance
+- Skills: Data Visualization, Business Analysis, Project Management
